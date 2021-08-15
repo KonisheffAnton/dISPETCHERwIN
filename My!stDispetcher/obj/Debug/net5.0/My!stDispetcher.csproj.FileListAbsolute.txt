@@ -1,0 +1,16 @@
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\My!stDispetcher.exe
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\My!stDispetcher.deps.json
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\My!stDispetcher.runtimeconfig.json
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\My!stDispetcher.runtimeconfig.dev.json
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\My!stDispetcher.dll
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\ref\My!stDispetcher.dll
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\bin\Debug\net5.0\My!stDispetcher.pdb
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.csproj.AssemblyReference.cache
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.AssemblyInfoInputs.cache
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.AssemblyInfo.cs
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.csproj.CoreCompileInputs.cache
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.dll
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\ref\My!stDispetcher.dll
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.pdb
+C:\Users\Привет Антон\source\repos\dISPETCHERwIN\My!stDispetcher\obj\Debug\net5.0\My!stDispetcher.genruntimeconfig.cache

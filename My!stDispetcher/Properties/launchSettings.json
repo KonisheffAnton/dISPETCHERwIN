@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "My!stDispetcher": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad 1 1"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
